@@ -20,5 +20,10 @@ Python, streamlit, PyPDF2, langchain, langchain-community, langchain-core, langc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/rag-chatbot-university-admission.git
-   cd rag-chatbot-university-admission
+   git clone https://github.com/awaismaqbool97/RAG_for_University_Selection.git
+2. Install Requirements:
+   ```bash
+   pip install -r requirements.txt
+3. Run Streamlit App
+   ```bash
+   streamlit run main.py
