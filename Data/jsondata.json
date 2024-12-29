@@ -1,0 +1,214 @@
+[
+  {
+    "University_Name": "FAST or nuces",
+    "Information" : {
+      "Basic Details" : {
+    "Location": "Chiniot-Faisalabad Campus",
+    "History": "Established as the first private sector university in Pakistan, with a federal charter in 2000.",
+    "Vision": "To produce responsible world-class professionals who are also good human beings.",
+    "Mission": "Create a knowledge-based society, focusing on the impact of Information Technology."
+      },
+      "Rankings" : {
+    "Established": 2000,
+    "Ranking_National": 5,
+    "Ranking_International": "2000-2500",
+    "Strengths": "Computer Science, Engineering, Business Programs",
+    "Programs": "BS Computer Science, BS Software Engineering, BS Artificial Intelligence, MBA, PhD Computer Science",
+    "Feedback": "High-quality education, excellent IT infrastructure, limited focus on arts.",
+    "Facilities": "Basketball court, cricket ground, high-speed internet, library, cafeteria.",
+    "Best_For": "Computer Science, Software Engineering",
+    "Placement_Rate": "85%",
+    "Research_Opportunities": "Strong in IT and AI research."
+      },
+      "Degrees or Courses or Programs": {
+    "BS": "['BS Computer Science', 'BS Software Engineering', 'BS Artificial Intelligence', 'BS Electrical Engineering', 'BS Business Administration', 'BS Business Analytics.']",
+    "MS": "['MS Business Administration', 'MS Biotechnology', 'MS Cyber Security']",
+    "PhD": "['PhD Mechanical Engineering', 'PhD Environmental Science', 'PhD Biotechnology']"
+      },
+      "Administration": {
+    "Chancellor": "Mr. Wasim Sajjad",
+    "Vice-Chancellor": "Dr. Aftab Maroof"
+      },
+      "Contact Details": {
+      "Address": "FAST-NU, FAST Square, 9 Km from Faisalabad Motorway Interchange, towards Chiniot.",
+    "Phone": "(041) 111 128 128",
+    "Email": "info.cfd@nu.edu.pk"
+      },
+      "Extracurricular activities": {
+        "Clubs and Societies": "IEEE Student Branch, Google Developer Student Club, Microsoft Learn Student Ambassadors, FAST Photography Society."
+      },
+      "Departments": "Computer Science, Software Engineering, AI & Data Science, Electrical Engineering, Sciences & Humanities, Management.",
+      "Facilities or Services": "Basketball court, cricket ground, gym, IT services, and on-campus cafeteria.",
+      "Fees or Fee Strctures": {
+        "BS": "Rs. 10,000 per credit hour",
+        "MS": "Rs. 12,000 per credit hour",
+        "PhD": "Rs. 15,000 per credit hour"
+      },
+      "Refund Details":{
+        "Full Refund": "7 days after start of classes",
+    "50% Refund": "8th to 15th day after start of classes",
+    "No Refund": "After 15th day"
+      },
+      "Scholarships or Financial Aids": "Merit Scholarships, HEC Scholarships for MS and PhD, PEEF Scholarships, Sindh and Baluchistan Government Scholarships."
+    }
+  },
+  {
+    "University_Name": "Government College University Faisalabad or GCU or GCUF",
+    "Information": {
+      "Basic Details": {
+    "Location": "Jhang Road, Faisalabad",
+    "History": "Founded as a primary school in 1897, upgraded to university status in 2002.",
+    "Vision": "Empower youth with professional capabilities to contribute to sustainable socio-economic progress.",
+    "Mission": "Equip future generations with ethical standards, professional competence, and inspiring leadership."
+      },
+      "Rankings": {
+    "Established": "2002",
+    "Ranking_National": "8",
+    "Ranking_International": "3000-3500",
+    "Strengths": "Arts and Social Sciences, Engineering and Technology",
+    "Programs": "BS Applied Chemistry, BS Physics, BS Data Science, MSc Physics, PhD Applied Chemistry",
+    "Feedback": "Strong legacy, excellent in arts and sciences, lacks modern IT programs.",
+    "Facilities": "Digital library, transport facilities, health center, Wi-Fi-enabled campus.",
+    "Best_For": "Arts, Social Sciences, and Physical Sciences",
+    "Placement_Rate": "75%",
+    "Research_Opportunities": "Strong in arts and physical sciences research."
+      },
+      "Degrees or Courses or Programs":{
+    "BS": "['BS Applied Chemistry', 'BS Physics', 'BS Computer Science', 'BS Data Science', 'BS Information Technology']",
+    "MS": "['MS Civil Engineering', 'MS Software Engineering', 'MS Biotechnology']",
+    "PhD": "['PhD Environmental Science', 'PhD Mathematics', 'PhD Engineering Management']"
+      },
+      "Administration":{
+    "Chancellor": "Governor of Punjab",
+    "Vice-Chancellor": "Prof. Dr. Shahid Kamal"
+      },
+      "Contact Details":{
+        "Address": "Jhang Road, Faisalabad, Pakistan",
+    "Phone": "+92-41-9201228",
+    "Email": "directorsports@gcuf.edu.pk"
+      },
+      "Extracurricular activities":{
+        "Clubs and Societies": "Jinnah Debating Society, Quiz Society, Nusrat Fateh Ali Musical Society, Dramatic Society."
+      },
+      "Departments": "Arts & Social Sciences, Engineering & Technology, Life Sciences, Physical Sciences, Pharmaceutical Sciences, Medical Sciences.",
+      "Facilities or Services": "Digital library, health center, transport facilities, student societies, and campus-wide Wi-Fi.",
+      "Fees or Fee Strctures":{
+        "BS": "Rs. 28,200 per semester",
+        "MS": "Rs. 32,000 per semester",
+        "PhD": "Rs. 40,000 per semester"
+      },
+      "Refund Details":{
+        "Full Refund": "10 days after start of classes",
+    "50% Refund": "11th to 20th day after start of classes",
+    "No Refund": "After 20th day"
+      },
+      "Scholarships or Financial Aids": "HEC Needs-Based Merit Scholarship, PEEF, Benazir Undergraduate Scholarship Project."
+    }
+  },
+  {
+    "University_Name": "National Textile University or NTU",
+    "Information":{
+      "Basic Details": {
+    "Location": "Sheikhupura Road, Faisalabad",
+    "History": "Established in 1954, upgraded to National Textile University in 2002.",
+    "Vision": "Transform socio-economic development, particularly in textile and clothing industries.",
+    "Mission": "Contribute to sustainable socio-economic development through excellence in education and research."
+      },
+    "Rankings":{
+    "Established": 1954,
+    "Ranking_National": 10,
+    "Ranking_International": "2500-3000",
+    "Strengths": "Textile Engineering, Polymer Engineering, Fashion Design",
+    "Programs": "BS Textile Engineering, BS Polymer Engineering, BS Fashion Design, MS Advanced Materials Engineering, PhD Textile Engineering",
+    "Feedback": "Best for textile-related fields, modern facilities, limited non-textile programs.",
+    "Facilities": "IT Center, textile labs, modern hostels, cafeterias, health clinic.",
+    "Best_For": "Textile Engineering, Polymer Engineering",
+    "Placement_Rate": "90%",
+    "Research_Opportunities": "Strong in textile research and innovation."
+    },
+    "Degrees or Courses or Programs":{
+    "BS": "['BS Textile Engineering', 'BS Polymer Engineering', 'BS Computer Science', 'BS Software Engineering']",
+    "MS": "['MS Electrical Engineering', 'MS Cyber Security', 'MS Mechanical Engineering']",
+    "PhD": "['PhD Mechanical Engineering', 'PhD Business Management', 'PhD Physics']"
+    },
+    "Administration":{
+      "Chancellor": "President of Pakistan",
+    "Vice-Chancellor": "Prof. Dr. Tanveer Hussain"
+    },
+    "Contact Details":{
+      "Address": "Sheikhupura Road, Faisalabad 37610, Pakistan",
+    "Phone": "+92 (041) 9230081-90",
+    "Email": "info@ntu.edu.pk"
+    },
+    "Extracurricular activities":{
+      "Clubs and Societies": "Society of Textile Spinners, Fashion Designers Club, Kavish Magazine Society, Computer Science Society."
+    },
+    "Departments": "Textile Engineering, Polymer Engineering, Fashion Design, Computer Science, Software Engineering, Business Administration.",
+    "Facilities or Services": "IT Center, library, health clinic, hostels, and cafeteria.",
+    "Fees or Fee Strctures":{
+      "BS": "Rs. 32,480 to Rs. 62,400 per semester depending on program",
+      "MS": "Rs. 45,000 per semester",
+      "PhD": "Rs. 50,000 per semester."
+    },
+    "Refund Details":{
+      "Full Refund": "5 days after start of classes",
+    "50% Refund": "6th to 10th day after start of classes",
+    "No Refund": "After 10th day"
+    },
+    "Scholarships or Financial Aids": "Merit Scholarships, HEC Need Base Scholarships, MORA Scholarships."
+   }
+  },
+  {
+    "University_Name": "Riphah International University Faisalabad Campus or Riphah",
+    "Information": {
+      "Basic Details": {
+    "Location": "Main Satiana Road, Faisalabad",
+    "History": "Established in 1995 by Islamic International Medical College Trust.",
+    "Vision": "Excel in holistic value-based education and research integrating Islamic values.",
+    "Mission": "Produce professionals with Islamic moral and ethical values."
+      },
+    "Rankings": {
+    "Established": 1995,
+    "Ranking_National": 12,
+    "Ranking_International": "3500-4000",
+    "Strengths": "Health Sciences, Management, IT",
+    "Programs": "BS Computer Science, BS Cyber Security, BS IT, DPT, BS Human Nutrition",
+    "Feedback": "Focused on Islamic values, good health science programs, moderate IT facilities.",
+    "Facilities": "Digital library, healthcare facilities, prayer areas, cafeterias.",
+    "Best_For": "Health Sciences, IT",
+    "Placement_Rate": "80%",
+    "Research_Opportunities": "Moderate, with focus on health sciences."
+    },
+    "Degrees or Courses or Programs":{
+      "BS": "['BS Computer Science', 'BS Cyber Security', 'BS IT', 'BS Biotechnology', 'BS Human Nutrition', 'BS Sports Science']",
+    "MS": "['MS Software Engineering', 'MS Business Administration', 'MS Data Science']",
+    "PhD": "['PhD Engineering Management', 'PhD Computer Science', 'PhD Civil Engineering']"
+    },
+    "Administration":{
+    "Chancellor": "Mr. Hassan Muhammad Khan",
+    "Vice-Chancellor": "Prof. Dr. Anis Ahmad"
+    },
+    "Contact Details":{
+    "Address": "Main Satiana Road, Faisalabad",
+    "Phone": "+92 41 8777210-310",
+    "Email": "contact@www.riphahfsd.edu.pk"
+    },
+    "Extracurricular activities":{
+      "Clubs and Societies": "Riphah Adventure Club, Riphah Art Club, Quran Society, Media Society."
+    },
+    "Departments": "Computer Sciences, Management Sciences, Rehabilitation & Allied Health Sciences, Social Sciences, Applied Sciences, Engineering.",
+    "Facilities or Services": "IT services, cafeterias, Wi-Fi access, digital library, and healthcare facilities.",
+    "Fees or Fee Strctures":{
+      "BS": "Rs. 53,000 to Rs. 95,000 per semester depending on program",
+      "MS": "Rs. 75,000 per semester",
+      "PhD": "Rs. 100,000 per semester"
+    },
+    "Refund Details":{
+      "Full Refund": "7 days after start of classes",
+    "50% Refund": "8th to 14th day after start of classes",
+    "No Refund": "After 14th day"
+    },
+    "Scholarships or Financial Aids": "Merit-Based Scholarships, Need-Based Scholarships, Kinship Scholarships, Alumni Scholarships."
+  }
+  }
+]
