@@ -13,21 +13,7 @@ To set up and run this project locally, follow the instructions below:
 
 ### Prerequisites
 
-streamlit
-PyPDF2
-langchain
-langchain-community
-langchain-core
-langchain-text-splitters
-langchain_openai
-langsmith
-python-docx
-python-pptx
-glob2
-beautifulsoup4
-requests
-faiss-cpu
-tiktoken
+Python, streamlit, PyPDF2, langchain, langchain-community, langchain-core, langchain-text-splitters, langchain_openai, langsmith, python-docx, python-pptx, glob2,, beautifulsoup4, requests, faiss-cpu, tiktoken
 
 
 ### Steps to Install
