@@ -150,44 +150,43 @@ def handle_userinput(user_question):
         return
 
     try:
-        data_folder = "../Data/"
-        csv_file = f"{data_folder}university_overview.csv"
+        # data_folder = "../Data/"
+        # csv_file = f"{data_folder}university_overview.csv"
 
-        university_names = set()
-        try:
-            df = pd.read_csv(csv_file)
-            if "University_Name" in df.columns:
-                for entry in df["University_Name"].dropna():
-                    names = [name.strip().lower() for name in entry.split("or")]
-                    university_names.update(names)
-            else:
-                st.warning("The CSV file does not contain a 'University_Name' column.")
-        except FileNotFoundError:
-            st.error("The university overview CSV file is missing.")
-            return
-        except Exception as e:
-            st.error(f"Error processing the CSV file: {str(e)}")
-            return
+        # university_names = set()
+        # try:
+        #     df = pd.read_csv(csv_file)
+        #     if "University_Name" in df.columns:
+        #         for entry in df["University_Name"].dropna():
+        #             names = [name.strip().lower() for name in entry.split("or")]
+        #             university_names.update(names)
+        #     else:
+        #         st.warning("The CSV file does not contain a 'University_Name' column.")
+        # except FileNotFoundError:
+        #     st.error("The university overview CSV file is missing.")
+        #     return
+        # except Exception as e:
+        #     st.error(f"Error processing the CSV file: {str(e)}")
+        #     return
 
-        comparison_keywords = ["compare", "better", "best", "vs", "versus", "comparison"]
-        comparison_intent = any(keyword in user_question.lower() for keyword in comparison_keywords)
+        # comparison_keywords = ["compare", "better", "best", "vs", "versus", "comparison"]
+        # comparison_intent = any(keyword in user_question.lower() for keyword in comparison_keywords)
 
-        mentioned_universities = [
-            uni for uni in university_names if re.search(rf"\b{re.escape(uni)}\b", user_question.lower())
-        ]
+        # mentioned_universities = [
+        #     uni for uni in university_names if re.search(rf"\b{re.escape(uni)}\b", user_question.lower())
+        # ]
 
-        if mentioned_universities:
-            prompt = f"Give answer based on {', '.join(mentioned_universities)} only and use previous' message context if details not mentioned."
-        else:
-            prompt = "Give generalized answer combining all available university data or specific university data only being used in context in previous messages."
+        # if mentioned_universities:
+        #     prompt = f"Give answer based on {', '.join(mentioned_universities)} only and use previous' message context if details not mentioned."
+        # else:
+        #     prompt = "Give generalized answer combining all available university data or specific university data only being used in context in previous messages."
 
-        if comparison_intent:
-            added_text = "give answer by Comparing the Data of mentioned universities only you have and do complete analysis and comparison of information and also use rankings, strengths, opportunities etc to support the answer."
-            prompt += added_text
+        # if comparison_intent:
+        #     added_text = "give answer by Comparing the Data of mentioned universities only you have and do complete analysis and comparison of information and also use rankings, strengths, opportunities etc to support the answer."
+        #     prompt += added_text
 
         
-        full_prompt = f"You are a RAG chatbot designed to assist students in gathering information about universities and help them decide where to apply. Your goal is to answer questions clearly, with a focus on factual and helpful insights from the provided university database. {prompt} QUESTION = '{user_question}' Please ensure the information is relevant, accurate, and clearly explained."
-
+        full_prompt = "You are a RAG chatbot"
 
         response = st.session_state.conversation({'question': full_prompt})
     
